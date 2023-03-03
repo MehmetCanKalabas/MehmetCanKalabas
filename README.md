@@ -1,4 +1,5 @@
-### Hi there 👋
+Hey 👋 What's up? I am currently looking for work.
+My name is Mehmet Can and I am a self-taught developer, I would like to work as a Back-End developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetcankalabas) 
