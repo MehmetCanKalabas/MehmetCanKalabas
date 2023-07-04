@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Since September 2022, I have been working on Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#.</p>
+<p align="left">Since September 2022, I have been working on .Net Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#.</p>
 
 ###
 
